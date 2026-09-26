@@ -1,2 +1,0 @@
-# Images
-linhanmo's images
